@@ -1,6 +1,7 @@
 <h1 aling="center"> Challenge del amigo secreto </h1>
 
-<p aling="left">
-<img src="src="![2014-12-23-7255NWE5558](https://github.com/user-attachments/assets/0851eb3e-d98c-422a-a6fa-39c40c61e30d)
-"">
+![¡Challenge del amigo secreto para divertirte!](https://github.com/user-attachments/assets/727f3557-c3ad-46b0-ba96-e8c964b3989f)
+
+<p>
+Challenge del amigo secreto es un proyecto utlizado para compartir con quien desees.
 </p>
